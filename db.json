@@ -1,0 +1,48 @@
+{
+  "pessoas": [
+    {
+      "id": "1e30",
+      "nome": "Felipe",
+      "senha": "12345"
+    },
+    {
+      "nome": "felipe",
+      "sobrenome": "vasconcelos",
+      "cpf": "11111",
+      "email": "seila",
+      "senha": "123456",
+      "rua": "rua das flores",
+      "cep": "1231231231",
+      "cidade": "Mogi das Cruzes",
+      "estado": "São paulinh999",
+      "telefone": "123123123123",
+      "id": "f0a9"
+    },
+    {
+      "nome": "Cristiano ",
+      "sobrenome": "Ronaldo",
+      "cpf": "32323233232",
+      "email": "CR7GOAT@gmail.com",
+      "senha": "MessiGOAT",
+      "rua": "rua dos goats",
+      "cep": "1231231231312",
+      "cidade": "Mogi das Cruzes",
+      "estado": "São Paulo",
+      "telefone": "8888888888888",
+      "id": "57b0"
+    },
+    {
+      "id": "e0c0",
+      "nome": "Manuel",
+      "sobrenome": "Gomes",
+      "cpf": "123123123123",
+      "email": "CanetaAzul@gmail.com",
+      "senha": "AzulCaneta",
+      "rua": "rua dos famosos",
+      "cep": "67857865123",
+      "cidade": "cidade dos ricos",
+      "estado": "Minas Gerais",
+      "telefone": "7456453435435"
+    }
+  ]
+}
